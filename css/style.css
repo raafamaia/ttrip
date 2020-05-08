@@ -236,6 +236,23 @@ body {
     vertical-align: center; }
   .overview__icon-location {
     margin-right: 1.5rem; }
+  .overview__rating {
+    background-color: var(--color-primary);
+    margin-left: 3rem;
+    color: var(--color-white);
+    padding: 0 2.25rem;
+    align-self: stretch;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; }
+    .overview__rating--average {
+      font-size: 2.25rem;
+      font-weight: 300;
+      margin-bottom: -3px; }
+    .overview__rating--count {
+      font-size: 0.8rem;
+      text-transform: uppercase; }
 
 .btn-inline {
   border: none;
