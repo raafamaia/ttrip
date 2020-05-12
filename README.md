@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Trillo 👋</h1>
+<h1 align="center">Welcome to ttrip 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
@@ -9,11 +9,11 @@
   </a>
 </p>
 
-> Trillo is a study project for mastering advanced styling concepts (flexbox).
+> ttrip is a study project for mastering advanced styling concepts (flexbox).
 
-### 🏠 [Homepage](https://trillo-project.surge.sh)
+### 🏠 [Homepage](https://ttrip.surge.sh)
 
-### ✨ [Demo](https://trillo-project-develop.surge.sh/)
+### ✨ [Demo](https://ttrip-develop.surge.sh/)
 
 ## Install
 
@@ -31,14 +31,15 @@ npm run start
 
 👤 **Rafael Maia**
 
-* Website: https://gitlab.com/
-* Twitter: [@rafmaia](https://twitter.com/rafmaia)
-* Github: [@rafmaia](https://github.com/rafmaia)
-* LinkedIn: [@rafmaia](https://linkedin.com/in/rafmaia)
+- Website: https://gitlab.com/
+- Twitter: [@rafmaia](https://twitter.com/rafmaia)
+- Github: [@rafmaia](https://github.com/rafmaia)
+- LinkedIn: [@rafmaia](https://linkedin.com/in/rafmaia)
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
